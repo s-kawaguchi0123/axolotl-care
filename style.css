@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-	background: white;
+	background: #fff;
 	border-radius: 18px;
 	padding-bottom: 10px;
 	box-shadow: 0 10px 40px rgba(0,0,0,0.15);
@@ -36,7 +36,7 @@ header h1 {
 }
 
 .section {
-	background: #fafafa;
+	background: #FADADD;
 	padding: 18px;
 	border-radius: 12px;
 	margin-bottom: 20px;
